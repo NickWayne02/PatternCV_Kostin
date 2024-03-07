@@ -1,2 +1,4 @@
 # PatternCV_Kostin
-# У цьому каталозі містяться лабораторні роботи з дисципліни Розпізнавання образів та комп’ютерний зір студента групи КІ-20-1 Костіна Євгена Вікторовича
+<h1 align="center">Hi there, I'm <a href="https://www.facebook.com/the.amazing.eugene" target="_blank">Yevhen</a> 
+<img src="https://tenor.com/iTX0uXpfx12.gif" height="32"/></h1>
+<h3 align="center">Computer science student from Ukraine 🇷🇺</h3>
